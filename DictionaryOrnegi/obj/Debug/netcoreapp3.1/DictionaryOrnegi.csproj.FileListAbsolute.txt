@@ -1,0 +1,12 @@
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\bin\Debug\netcoreapp3.1\DictionaryOrnegi.exe
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\bin\Debug\netcoreapp3.1\DictionaryOrnegi.deps.json
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\bin\Debug\netcoreapp3.1\DictionaryOrnegi.runtimeconfig.json
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\bin\Debug\netcoreapp3.1\DictionaryOrnegi.runtimeconfig.dev.json
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\bin\Debug\netcoreapp3.1\DictionaryOrnegi.dll
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\bin\Debug\netcoreapp3.1\DictionaryOrnegi.pdb
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\obj\Debug\netcoreapp3.1\DictionaryOrnegi.AssemblyInfoInputs.cache
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\obj\Debug\netcoreapp3.1\DictionaryOrnegi.AssemblyInfo.cs
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\obj\Debug\netcoreapp3.1\DictionaryOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\obj\Debug\netcoreapp3.1\DictionaryOrnegi.dll
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\obj\Debug\netcoreapp3.1\DictionaryOrnegi.pdb
+C:\Users\alize\source\repos\KampIntro\DictionaryOrnegi\obj\Debug\netcoreapp3.1\DictionaryOrnegi.genruntimeconfig.cache
